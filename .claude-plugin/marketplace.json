@@ -2,8 +2,7 @@
   "name": "puck-agent-skills",
   "owner": { "name": "Puck Wang" },
   "metadata": {
-    "description": "Puck's agent skills",
-    "version": "1.0.0"
+    "description": "Puck's agent skills"
   },
   "plugins": [
     {
