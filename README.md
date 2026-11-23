@@ -17,7 +17,7 @@ A Claude Code plugin marketplace for Puck Wang's agent skills.
 
 | Plugin | Version | Description | Repository |
 |---|---|---|---|
-| `diagram-first` | 1.3.0 | A picture is worth a thousand words: when explaining flows or architectures, the agent attaches an ASCII or Mermaid (ELK) diagram on its own | [puckwang/diagram-first-skill](https://github.com/puckwang/diagram-first-skill) |
+| `diagram-first` | 1.4.0 | A picture is worth a thousand words: when explaining flows or architectures, the agent attaches an ASCII or Mermaid (ELK) diagram on its own | [puckwang/diagram-first-skill](https://github.com/puckwang/diagram-first-skill) |
 
 Each plugin lives in its own repository and tracks its default branch. Run `/plugin update` to get a new version once its `plugin.json` version is bumped. See each repository's README for details, other installation methods and known limitations.
 
